@@ -3,7 +3,7 @@
 A clean, fast, and responsive web application built to settle life's small decisions with a simple coin flip. Whether you can't decide what to eat or who goes first in a game, Coin Toss Pro gives you an instant, unbiased result.
 
 ## 🚀 Live Demo
-[https://coin-toss-631076795495.asia-southeast1.run.app](https://coin-toss-631076795495.asia-southeast1.run.app)
+[ https://coin-toss-app-2eb65.web.app](https://coin-toss-app-2eb65.web.app)
 
 ## ✨ Features
 *   **Instant Decisions:** Get a heads-or-tails result in a single click.
