@@ -25,7 +25,7 @@ If you want to run this project locally on your machine:
 
 1.  **Clone the repository:**
 ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/LUCiiFER-07/coin-toss-app.git]
     ```
 2.  **Open in your browser:** Simply open the `index.html` file in your favorite web browser.
 
