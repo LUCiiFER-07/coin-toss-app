@@ -1,0 +1,6 @@
+{
+  "name": "Coin Toss",
+  "description": "A clean, modern, and minimalist coin tossing application designed for calm visual and audio feedback, featuring history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
